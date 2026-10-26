@@ -1,4 +1,4 @@
-# Introduction
+QJEX428 là Mã bạn bè trên Widgetable của tôi. Nhập mã vào ứng dụng hoặc nhấn vào liên kết bên dưới để thêm tôi! Mã và liên kết này có hiệu lực đến thg 10 27, 2026, 12:52 SA. https://widgetable.net/friend/code/QJEX428# Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
 
